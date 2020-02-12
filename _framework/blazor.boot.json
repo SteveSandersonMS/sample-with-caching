@@ -1,0 +1,36 @@
+{
+  "cacheBootResources": true,
+  "debugBuild": false,
+  "entryAssembly": "StandaloneApp",
+  "linkerEnabled": true,
+  "resources": {
+    "assembly": {
+      "Microsoft.AspNetCore.Blazor.dll": "d+mgyQFO2kyxmO2u+lNf7Hz8WifA3kkMEusQD\/FFLJU=",
+      "Microsoft.AspNetCore.Blazor.HttpClient.dll": "28hpRaC7TsgdgdEgjjallFGhyuxp\/rHmgG1GRunXC\/c=",
+      "Microsoft.AspNetCore.Components.dll": "OyHxg579CenFdysKYM7KgiRInYtqpOreTiVNGyGKKxY=",
+      "Microsoft.AspNetCore.Components.Web.dll": "GoNqgkigz0ciGfY68E5304BoP5Xwm9hWB3ZyDF35vZ8=",
+      "Microsoft.Bcl.AsyncInterfaces.dll": "jzHgXWAvWMkKIGFjZoT84tbe72E+H7CvTr\/Dryh4QPs=",
+      "Microsoft.Extensions.Configuration.Abstractions.dll": "HdvQeg\/VhX78dEgwFje8zIhtUZn3lxAXY1wsDQNrMY4=",
+      "Microsoft.Extensions.Configuration.dll": "BaDamkUBDnK4x22lM4bP32feBpnbGIxgIeTLRS0Ed2I=",
+      "Microsoft.Extensions.DependencyInjection.Abstractions.dll": "eLcsAXPk6oQJmsBzdW8GX7TTAgK8iCwvmJFQHvNxlAU=",
+      "Microsoft.Extensions.DependencyInjection.dll": "NEPs831+iByl0piSRmSuTzBWWm6jQz1kgHFPx2+h4qA=",
+      "Microsoft.Extensions.Logging.Abstractions.dll": "XJT21HcXybvhNH3rphEQFIM3vJy\/olLpc9cFh2rhLVc=",
+      "Microsoft.Extensions.Primitives.dll": "bFVqrmPgOqnkE6eamesiZWe\/UM34U+cyonwrhUMk6KU=",
+      "Microsoft.JSInterop.dll": "CJ0jnf2G21cOvZYQt\/4NVkv642Xz8fLQyPnHvcfP3D4=",
+      "Mono.WebAssembly.Interop.dll": "zbRiEGhG2YJNpg1h4fIug5+QEehwpFuhy7Ro\/k8Z4lw=",
+      "mscorlib.dll": "hy9mqHopqN2lSkyazCIgNlmB1SBbIaLHRAmSYzOUCe0=",
+      "StandaloneApp.dll": "kNoCruZBREz+O+mSZQZsAU5sP5pHZd+grWVpF581yxg=",
+      "System.Core.dll": "35fK2LkX27k3O8dFgm\/pi1RDClJ03ZtZSfkP1J6qjc0=",
+      "System.dll": "nICm1aeS7EcQkEGUgvkPKbWk+fqgEtOXi8Vi8rY0iPM=",
+      "System.Net.Http.dll": "LMfdjJ7sT3APifx97zZzDbLfw4xkp0yL6ygS9S9Y2sM=",
+      "System.Runtime.CompilerServices.Unsafe.dll": "fe1CEeoGXO1qjwiNb8SlslH+QCzqIaHxxLig8Z26vo4=",
+      "System.Text.Encodings.Web.dll": "NZTnOe9gWFu+cGqL0JmsUz5JBe6CZ5Qs2\/wHKsXCykM=",
+      "System.Text.Json.dll": "B6iQ\/y8FFGNEK9jTRUD5\/hKXEx7EXgLAwZ33jZPmufc=",
+      "WebAssembly.Bindings.dll": "lQcOG6YtqPIxRW2agcUbCFI5US+WxoyDm6sVr6ckkms=",
+      "WebAssembly.Net.Http.dll": "iZhNIqyZHtfQRkits1M4PvlztTmBtdRpw5nNcOF2bsE="
+    },
+    "wasm": {
+      "dotnet.wasm": "N0BcpMCLobN0w73WzlVHq1k8cY0hdW9x+exzXW2HsE8="
+    }
+  }
+}
